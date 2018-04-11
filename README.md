@@ -9,6 +9,12 @@ Talk Ideas
 
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
+## Front-end
+
+- Trindade (HTML, CSS e JavaScript)
+- Framewroks (Angular, React, Vue, etc...)
+- Tooling (Grunt, Gulp, Webpack, NodeJS, npm, Yarn, Yeoman, etc...)
+
 ## var, let, const
 ## Front-end Tools
 ## WebComponents
