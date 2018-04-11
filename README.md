@@ -25,6 +25,9 @@ Talk Ideas
 ## Angular
 ## RxJS
 ## React
+[Flux](https://facebook.github.io/flux/)
+[Reflux](https://github.com/reflux/refluxjs)
+[Redux](https://redux.js.org/)
 
 ## Styled Components
 
