@@ -92,3 +92,7 @@ Talk Ideas
 - Examining a basic tutorial on Git usage
 
 [What is a Full Stack Developer in 2018 and How to Become One?](https://hackernoon.com/what-is-a-full-stack-developer-in-2018-and-how-to-become-one-ca82e8906c87)
+
+## Front-End Developer Handbook
+
+[Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
