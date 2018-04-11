@@ -7,7 +7,7 @@ Talk Ideas
 - Fast
 - Engaging
 
-- [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## Front-end
 
@@ -27,14 +27,16 @@ Talk Ideas
 ## React
 
 ## Styled Components
-- [A 5-minute Intro to Styled Components](https://medium.freecodecamp.org/a-5-minute-intro-to-styled-components-41f40eb7cd55)
+
+[A 5-minute Intro to Styled Components](https://medium.freecodecamp.org/a-5-minute-intro-to-styled-components-41f40eb7cd55)
 
 ## Produtividade
 
 - Faça uma coisa de cada vez
 - Conheça suas ferramentas
 - Automatize!
-- [Guia rápido da produtividade no seu computador](https://ronaldolima.eti.br/guia-r%C3%A1pido-da-produtividade-no-seu-computador-87c518d3be12)
+
+[Guia rápido da produtividade no seu computador](https://ronaldolima.eti.br/guia-r%C3%A1pido-da-produtividade-no-seu-computador-87c518d3be12)
 
 ## Full Stack Developer
 
@@ -85,3 +87,5 @@ Talk Ideas
 
 - Learning the full list of Git commands
 - Examining a basic tutorial on Git usage
+
+[What is a Full Stack Developer in 2018 and How to Become One?](https://hackernoon.com/what-is-a-full-stack-developer-in-2018-and-how-to-become-one-ca82e8906c87)
