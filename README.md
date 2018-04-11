@@ -2,6 +2,11 @@
 Talk Ideas
 
 ## PWA - Progressive Web Apps
+
+- Reliable
+- Fast
+- Engaging
+
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## var, let, const
